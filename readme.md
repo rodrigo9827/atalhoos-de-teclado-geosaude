@@ -1,8 +1,14 @@
 Readme para um programa de automação com teclas de atalho
 
+delay de 0.3s, se algo não funcionar tente novamente após o tempo e delay
+
 Atalhos uteís de teclado após o comando ser ativado:
 
-s - Tecla para iniciar e rodar o programa
+[esc] - Tecla para desabilitar atalhos de teclado e aguardar o [s] para iniciar novamente
+
+[q] - Tecla para sair e finalizar o programa
+
+[s] - Tecla para iniciar e rodar o programa
 
 1 - Tecla para escrever a frase do óbito
 
@@ -14,6 +20,3 @@ s - Tecla para iniciar e rodar o programa
 
 5 - Tecla para escrever a frase de 4° contato realizado
 
-[esc] - Tecla para desabilitar atalhos de teclado e aguardar o [s] para iniciar novamente
-
-[q] - Tecla para sair e finalizar o programa
