@@ -28,8 +28,9 @@ while True:
         print("\n[-] - Shortcuts disabled, wait for the [s] key to continue")
         sleep(0.5)
         
-        keyboard.wait('q')
-        break
+        keyboard.wait('s')
+        continue
+
     
     except Exception as e:
         print(f"[-] - any error ocorred {e}")
