@@ -2,7 +2,7 @@ Readme para um programa de automação com teclas de atalho
 
 Atalhos uteís de teclado após o comando ser ativado:
 
-0 - Tecla para iniciar e rodar o programa
+s - Tecla para iniciar e rodar o programa
 
 1 - Tecla para escrever a frase do óbito
 
@@ -14,6 +14,6 @@ Atalhos uteís de teclado após o comando ser ativado:
 
 5 - Tecla para escrever a frase de 4° contato realizado
 
-[esc] - Tecla para desabilitar atalhos de teclado e aguardar o [0] para iniciar novamente
+[esc] - Tecla para desabilitar atalhos de teclado e aguardar o [s] para iniciar novamente
 
 [q] - Tecla para sair e finalizar o programa

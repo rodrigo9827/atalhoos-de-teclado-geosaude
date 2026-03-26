@@ -1,6 +1,6 @@
 import keyboard
 from time import sleep
-print("[i] - program started by the user...press [0] to execute or [q] to exit \n")
+print("[i] - program started by the user...press [s] to execute or [q] to exit \n")
 
 while True:
     try:
@@ -8,9 +8,9 @@ while True:
         if keyboard.is_pressed('q'):
             print('[-] - Exit the program...')
             break
-        keyboard.wait('0')
+        keyboard.wait('s')
         print('[i] - Program started by the user')
-        print('press [esc] key to return and wait to the [0] key')
+        print('press [esc] key to return and wait to the [s] key')
         h1 = keyboard.add_hotkey('1', lambda: keyboard.write("Conforme contato na data --------- foi informado óbito. Confirmado com ------."))
         h2 = keyboard.add_hotkey('2', lambda: keyboard.write("Conforme contato na data ------------ informa que não necessita mais da consulta. Confirmado com -----."))
         h3 = keyboard.add_hotkey('3', lambda: keyboard.write("Conforme contato na data ------------- informa que já realizou a consulta. Confirmado com ------."))
@@ -25,10 +25,11 @@ while True:
         keyboard.remove_hotkey(h4)
         keyboard.remove_hotkey(h5)
 
-        print("\n[-] - Shortcuts disabled, wait for the [0] key to continue")
+        print("\n[-] - Shortcuts disabled, wait for the [s] key to continue")
         sleep(0.5)
         
         keyboard.wait('q')
         break
+    
     except Exception as e:
         print(f"[-] - any error ocorred {e}")
