@@ -16,7 +16,9 @@ Atalhos uteís de teclado após o comando ser ativado:
 
 3 - Tecla para escrever a frase de já realizou
 
-4 - Tecla para escrever a frase de Sim / pct ainda necessita da consulta
+4 - Tecla para escrever a frase de Sim / pct ainda necessita da consulta falado com 3°
 
-5 - Tecla para escrever a frase de 4° contato realizado
+5 -  Tecla para escrever a frase de Sim / pct ainda necessita da consulta
+
+6 - Tecla para escrever a frase de 4° contato realizado
 
