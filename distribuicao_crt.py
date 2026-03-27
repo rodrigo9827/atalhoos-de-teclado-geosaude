@@ -2,7 +2,7 @@ import keyboard
 from time import sleep
 
 print("[i] - Programa iniciado. Comandos:")
-print("    [s] -> Ativar atalhos (1 a 5)")
+print("    [s] -> Ativar atalhos (1 a 6)")
 print("    [esc] -> Desativar atalhos atuais")
 print("    [q] -> Sair do programa totalmente\n")
 
@@ -13,7 +13,8 @@ def registrar_atalhos():
         '2': "Conforme contato na data ------------ informa que não necessita mais da consulta. Confirmado com -----.",
         '3': "Conforme contato na data ------------- informa que já realizou a consulta. Confirmado com ------.",
         '4': "Conforme contato paciente aguarda consulta. Confirmado com -----.",
-        '5': "4° Tentativa realizada sem sucesso"
+        '5': "Conforme contato paciente aguarda consulta.",
+        '6': "4° Tentativa realizada sem sucesso"
     }
     
     hooks = []
@@ -34,7 +35,7 @@ def main():
         # Verifica se o usuário quer ativar os atalhos
         if keyboard.is_pressed('s'):
             if not atalhos_ativos:
-                print('[+] - Atalhos ATIVADOS (1-5). Pressione [ESC] para pausar.')
+                print('[+] - Atalhos ATIVADOS (1-6). Pressione [ESC] para pausar.')
                 atalhos_ativos = registrar_atalhos()
                 # Pequena pausa para não registrar múltiplos cliques
                 sleep(0.3)
