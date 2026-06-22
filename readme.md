@@ -1,5 +1,7 @@
 Readme para um programa de automação com teclas de atalho
 
+!Atenção! - após extrair o arquivo na pasta de Downloads, mover o arquivo **"Start.bat"** para Área de trabalho.
+
 delay de 0.3s, se algo não funcionar tente novamente após o tempo e delay
 
 Atalhos uteís de teclado após o comando ser ativado:
