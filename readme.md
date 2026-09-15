@@ -1,10 +1,14 @@
 Readme para um programa de automação com teclas de atalho
 
-!Atenção! - após extrair o arquivo na pasta de Downloads, mover o arquivo **"Start.bat"** para Área de trabalho.
+'''
+**!ATENÇÃO!** após usar uma vez apertar a tecla 'q' para desativar o programa e não escrever as frases em lugares desnecessários!
+'''
+
+!Atenção! - após extrair o arquivo na pasta de Downloads, mover o arquivo **"inicializacao.bat"** para Área de trabalho.
 
 delay de 0.3s, se algo não funcionar tente novamente após o tempo e delay
 
-Atalhos uteís de teclado após o comando ser ativado:
+Atalhos uteís de teclado após o programa ser ativado:
 
 [esc] - Tecla para desabilitar atalhos de teclado e aguardar o [s] para iniciar novamente
 
