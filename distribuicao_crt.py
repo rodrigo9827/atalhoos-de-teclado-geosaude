@@ -3,13 +3,13 @@ from time import sleep
 
 print("[i] - Programa iniciado. Comandos:")
 print("    [s] -> Ativar atalhos (1 a 6)")
-print("    [1] - Tecla para escrever a frase do óbito")
-print("    [2] - Tecla para escrever a frase de não necessita")
-print("    [3] - Tecla para escrever a frase de já realizada")
-print("    [4] - Tecla para escrever a frase de Sim/pct ainda necessita da consulta falada com 3°")
-print("    [5] - Tecla para escrever a frase de Sim/pct ainda necessita da consulta")
-print("    [6] - Tecla para escrever a frase de 4° contato realizado")
-print("    [esc] -> Desativar atalhos atuais")
+print("    [1] - Tecla para escrever a frase do óbito\n")
+print("    [2] - Tecla para escrever a frase de não necessita\n")
+print("    [3] - Tecla para escrever a frase de já realizada\n")
+print("    [4] - Tecla para escrever a frase de Sim/pct ainda necessita da consulta falada com 3°\n")
+print("    [5] - Tecla para escrever a frase de Sim/pct ainda necessita da consulta\n")
+print("    [6] - Tecla para escrever a frase de 4° contato realizado\n")
+print("    [esc] -> Desativar atalhos atuais\n")
 print("    [q] -> Sair do programa totalmente\n")
 
 def registrar_atalhos():
