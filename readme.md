@@ -1,10 +1,6 @@
 Readme para um programa de automação com teclas de atalho
 
-'''
-
-**!ATENÇÃO!** após usar uma vez apertar a tecla 'q' para desativar o programa e não escrever as frases em lugares desnecessários!
-
-'''
+| **!ATENÇÃO!** após usar uma vez apertar a tecla 'q' para desativar o programa e não escrever as frases em lugares desnecessários!
 
 !Atenção! - após extrair o arquivo na pasta de Downloads, mover o arquivo **"inicializacao.bat"** para Área de trabalho.
 
