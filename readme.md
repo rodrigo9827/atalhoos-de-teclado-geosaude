@@ -6,15 +6,13 @@ Readme para um programa de automação com teclas de atalho
 
 !Atenção! - após extrair o arquivo na pasta de Downloads, mover o arquivo **"inicializacao.bat"** para Área de trabalho.
 
-delay de 0.3s, se algo não funcionar tente novamente após o tempo e delay
-
 Atalhos uteís de teclado após o programa ser ativado:
 
-[esc] - Tecla para desabilitar atalhos de teclado e aguardar o [s] para iniciar novamente
+[esc] - Tecla para desabilitar atalhos de teclado e aguardar o [0] para iniciar novamente
 
-[q] - Tecla para sair e finalizar o programa
+[Enter] - Tecla para sair e finalizar o programa
 
-[s] - Tecla para iniciar e rodar o programa
+[0] - Tecla para iniciar e rodar o programa
 
 1 - Tecla para escrever a frase do óbito
 
