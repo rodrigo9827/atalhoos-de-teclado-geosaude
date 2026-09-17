@@ -8,9 +8,8 @@ desenvolvido para uso interno na plataforma GeoSaúde.
 
 Após escrever a frase apertar a tecla 'esc' para não digitar a frase correspondente ao binário das setas nos números: 2, 4 e 6. 
 
-Após usar apertar a tecla 'Enter' para parar o programa
+### Após usar apertar a tecla 'Enter' para parar o programa ou ele vai escrever a frase enquanto estiver digitando no teams ou qualquer outro app
 
-Ou ele vai escrever a frase enquanto estiver digitando no teams ou qualquer outro app
 ---
 ## Atenção antes de usar
 
